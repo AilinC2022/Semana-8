@@ -1,0 +1,52 @@
+h1{
+    background-image: url(darth.jpg);
+    font-family: 'Playfair Display', serif;
+    height: 106px;
+    color:white;
+    text-align: center;
+    font-size: 400%;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 7px rgb(229, 252, 102);
+}
+
+img{
+    height: 320px;
+    border-radius: 15px;
+	border-style: dotted;
+}
+
+.imperio{
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+    color:white;
+    font-size: 150%;
+}
+
+#imperio{
+    font-family: 'Playfair Display', serif;
+    height: 75px;
+    color:white;
+    background-color: rgb(173, 102, 240);
+    text-align: center;
+    font-size: 300%;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px blue;
+}
+
+.rebeldes{
+    background-color: black;
+    font-family: 'Playfair Display', serif;
+    color:white;
+    font-size: 150%;
+}
+
+#rebeldes{
+    font-family: 'Playfair Display', serif;
+    height: 75px;
+    color:black;
+    background-color: rgb(237, 248, 150);
+    text-align: center;
+    font-size: 300%;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px rgb(103, 32, 218);
+}
